@@ -153,7 +153,7 @@ POST http://localhost:9090/updateCategoryById/{{id}}
 DELETE http://localhost:9090/deleteCategoryById/{{id}}
 
 -------------------------------------------------------------------------------------
-CategoryController Endpoints
+CustomerController Endpoints
 -------------------------------------------------------------------------------------
 Content-Type: application/json
 
